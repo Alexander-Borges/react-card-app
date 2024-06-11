@@ -1,0 +1,22 @@
+* {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+.card{
+  border: 10px solid hsl(0, 0%, 80%);
+  border-radius: 5%;
+  box-shadow: 50px 55px 25px rgb(44, 52, 61);
+  padding: 20px;
+  margin: 20px;
+  text-align: center;
+  max-width: auto;
+  display: inline-block;
+  background-color: rgb(235, 142, 142);
+  color:moccasin;
+}
+
+.card .card-image{
+  max-width: 60%;
+  height: auto;
+  border-radius: 50%;
+}
